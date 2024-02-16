@@ -1,6 +1,5 @@
-
 .nav-bar {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin-left: -10px;
   width: 99%;
   position: sticky;
@@ -198,76 +197,82 @@ body,
   border-top: 1px solid #00bbee;
 }
 
-.heading-h1 h1{
-    margin-top: 70px;
-    text-align: center;
-    color: rgb(43, 42, 42);
-    font-size: 45px;
-    font-weight: 500px;
+.heading-h1 h1 {
+  margin-top: 70px;
+  text-align: center;
+  color: rgb(43, 42, 42);
+  font-size: 45px;
+  font-weight: 500px;
 }
 
-.main{
-    background-color: #ebeced;
+.main {
+  background-color: #ebeced;
 }
 
-.upper1{
-    display: flex;
+.upper1 {
+  display: flex;
 }
 
-.img1 img{
-    width: auto;
-    height: 550px;
-    margin-left: 80px;
-    margin-top: 90px;
+.img1 img {
+  width: auto;
+  height: 550px;
+  margin-left: 80px;
+  margin-top: 90px;
+  border-bottom-left-radius: 30px;
 }
 
-.para1 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 90px;
-    margin-top: 120px;
-    font-size: 22px;
-    line-height: 1.5em;
-    font-weight: lighter;
+.para1 p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 90px;
+  margin-top: 120px;
+  font-size: 22px;
+  line-height: 1.5em;
+  font-weight: lighter;
 }
 
 .img2 {
-    width: 80%;
-    padding: 30px;
-    margin-left: 10%;
-    background-color: #ebeced;
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
-  .img2 img {
-    height: 70px;
-    width: auto;
+  width: 80%;
+  padding: 30px;
+  margin-left: 10%;
+  background-color: #ebeced;
+  display: flex;
+  justify-content: space-evenly;
+}
 
-  }
+.img2 img {
+  height: 70px;
+  width: auto;
+}
 
-  .img2-1, .img2-2, .img2-3, .img2-4, .img2-5, .img2-6, .img2-7{
-    opacity: 0.3; 
-    transition: opacity 0.3s; 
-  }
-  
-.img2-1:hover{
-    opacity: 0.9;
+.img2-1,
+.img2-2,
+.img2-3,
+.img2-4,
+.img2-5,
+.img2-6,
+.img2-7 {
+  opacity: 0.3;
+  transition: opacity 0.3s;
 }
-.img2-2:hover{
-    opacity: 0.9;
+
+.img2-1:hover {
+  opacity: 0.9;
 }
-.img2-3:hover{
-    opacity: 0.9;
+.img2-2:hover {
+  opacity: 0.9;
 }
-.img2-4:hover{
-    opacity: 0.9;
+.img2-3:hover {
+  opacity: 0.9;
 }
-.img2-5:hover{
-    opacity: 0.9;
+.img2-4:hover {
+  opacity: 0.9;
 }
-.img2-6:hover{
-    opacity: 0.9;
+.img2-5:hover {
+  opacity: 0.9;
 }
-.img2-7:hover{
-    opacity: 0.9;
+.img2-6:hover {
+  opacity: 0.9;
+}
+.img2-7:hover {
+  opacity: 0.9;
 }
